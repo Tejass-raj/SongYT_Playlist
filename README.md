@@ -56,3 +56,25 @@ Billboard-Top-100-Scraper/
 ├── main.py
 │
 └── README.md
+
+
+⚙️ How the Project Works
+The complete workflow of the project is:
+
+User enters a date
+        ↓
+Create URL using the date
+        ↓
+Send HTTP GET request
+        ↓
+Receive webpage HTML
+        ↓
+Parse HTML using BeautifulSoup
+        ↓
+Find song title elements
+        ↓
+Extract song names
+        ↓
+Number the songs
+        ↓
+Display Top 100 in terminal
