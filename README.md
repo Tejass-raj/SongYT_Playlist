@@ -16,8 +16,10 @@ The program asks the user to enter a date in the following format:
 
 ```text
 YYYY-MM-DD
+---
 
-🎯 Project Objective
+
+### 🎯 Project Objective
 The main objective of this project is to understand how Python can be used to collect information from webpages and process the extracted data.
 Through this project, I practiced:
 - Taking user input
@@ -29,5 +31,19 @@ Through this project, I practiced:
 - Selecting elements using CSS selectors
 - Extracting text from HTML elements
 - Using list comprehensions
+
+---
+
+✨ Features
+- 🎵 Fetches Top 100 songs for a selected date
+- 📅 Takes the date from the user
+- 🌐 Creates a dynamic webpage URL based on the date
+- 🕸️ Uses web scraping to collect song titles
+- 🥣 Uses BeautifulSoup for HTML parsing
+- 🔎 Uses CSS selectors to locate song elements
+- 🛡️ Includes a User-Agent header in the request
+- 📋 Displays songs with their rankings
+- 💻 Simple command-line interface
+- 🐍 Built completely with Python
 - Using loops and enumerate()
 - Displaying structured data in the terminal
