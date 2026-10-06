@@ -1,0 +1,18 @@
+# 🎵 Billboard Top 100 Songs Web Scraper
+
+A Python web scraping project that allows you to enter a specific date and retrieve the **Top 100 songs** from the Billboard/Bakeboard Hot 100 chart for that date.
+
+The project uses **Requests** to access the webpage and **BeautifulSoup** to parse the HTML and extract the song titles. The results are then displayed in the terminal along with their rankings.
+
+---
+
+## 📖 About the Project
+
+Music charts change every week, with different songs moving up and down the rankings over time.
+
+This project was created to practice **web scraping with Python** by building a simple program that can retrieve the Top 100 songs for a specific date.
+
+The program asks the user to enter a date in the following format:
+
+```text
+YYYY-MM-DD
