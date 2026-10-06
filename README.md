@@ -47,3 +47,12 @@ Through this project, I practiced:
 - 🐍 Built completely with Python
 - Using loops and enumerate()
 - Displaying structured data in the terminal
+
+
+Project Structure
+
+Billboard-Top-100-Scraper/
+│
+├── main.py
+│
+└── README.md
