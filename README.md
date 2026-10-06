@@ -16,3 +16,18 @@ The program asks the user to enter a date in the following format:
 
 ```text
 YYYY-MM-DD
+
+🎯 Project Objective
+The main objective of this project is to understand how Python can be used to collect information from webpages and process the extracted data.
+Through this project, I practiced:
+- Taking user input
+- Working with dates as strings
+- Creating dynamic URLs
+- Sending HTTP requests
+- Using request headers
+- Parsing HTML using BeautifulSoup
+- Selecting elements using CSS selectors
+- Extracting text from HTML elements
+- Using list comprehensions
+- Using loops and enumerate()
+- Displaying structured data in the terminal
